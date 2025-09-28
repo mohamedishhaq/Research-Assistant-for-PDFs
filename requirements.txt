@@ -1,8 +1,5 @@
 streamlit
-transformers
+llama-index
+llama-index-embeddings-huggingface
 sentence-transformers
-faiss-cpu
-pdfplumber
-duckduckgo-search
-torch
-numpy
+PyMuPDF

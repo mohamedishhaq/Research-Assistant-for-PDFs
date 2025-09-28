@@ -1,0 +1,129 @@
+[
+  {
+    "timestamp": 1759068839,
+    "question": "what this pdf about?",
+    "answer": "[30] Ofir Press and Lior Wolf. Using the outputem",
+    "sources": [
+      "ai_research.pdf p12",
+      "ai_research.pdf p12",
+      "ai_research.pdf p11",
+      "ai_research.pdf p11"
+    ],
+    "web_results": ""
+  },
+  {
+    "timestamp": 1759068855,
+    "question": "what this pdf about?",
+    "answer": "[30] Ofir Press and Lior Wolf. Using the outputem",
+    "sources": [
+      "ai_research.pdf p12",
+      "ai_research.pdf p12",
+      "ai_research.pdf p11",
+      "ai_research.pdf p11"
+    ],
+    "web_results": []
+  },
+  {
+    "timestamp": 1759069117,
+    "question": "what is this pdf about",
+    "answer": "[30] Ofir Press and Lior Wolf. Using the outputem",
+    "sources": [
+      "ai_research.pdf p12",
+      "ai_research.pdf p12",
+      "ai_research.pdf p11",
+      "ai_research.pdf p11"
+    ],
+    "web_results": []
+  },
+  {
+    "timestamp": 1759069123,
+    "question": "what is this pdf about",
+    "answer": "[ai_research.pdf p12]",
+    "sources": [
+      "ai_research.pdf p12"
+    ],
+    "web_results": []
+  },
+  {
+    "timestamp": 1759069258,
+    "question": "what is this pdf about?",
+    "answer": "[ai_research.pdf p12]",
+    "sources": [
+      "ai_research.pdf p12"
+    ],
+    "web_results": [
+      "[Web search unavailable due to rate limit]"
+    ]
+  },
+  {
+    "timestamp": 1759069704,
+    "question": "what is this pdf about?",
+    "answer": "[ai_research.pdf p12]",
+    "sources": [
+      "ai_research.pdf p12"
+    ],
+    "web_results": [
+      "[Web search unavailable]"
+    ]
+  },
+  {
+    "timestamp": 1759069926,
+    "question": "what is this pdf about?",
+    "answer": "[ai_research.pdf p12]",
+    "sources": [
+      "ai_research.pdf p12"
+    ],
+    "web_results": [
+      "[Web search unavailable]"
+    ]
+  },
+  {
+    "timestamp": 1759070126,
+    "question": "what is this pdf about?",
+    "answer": "[30] Ofir Press and Lior Wolf. Using the outputem",
+    "sources": [
+      "ai_research.pdf p12",
+      "ai_research.pdf p12",
+      "ai_research.pdf p11",
+      "ai_research.pdf p11"
+    ],
+    "web_results": ""
+  },
+  {
+    "timestamp": 1759070133,
+    "question": "what is this pdf about?",
+    "answer": "[30] Ofir Press and Lior Wolf. Using the outputem",
+    "sources": [
+      "ai_research.pdf p12",
+      "ai_research.pdf p12",
+      "ai_research.pdf p11",
+      "ai_research.pdf p11"
+    ],
+    "web_results": [
+      "[Web search unavailable]"
+    ]
+  },
+  {
+    "timestamp": 1759071333,
+    "question": "what is this pdf about?",
+    "answer": "[ai_research.pdf p12]",
+    "sources": [
+      "ai_research.pdf p12"
+    ],
+    "web_results": [
+      "[Web search unavailable]"
+    ]
+  },
+  {
+    "ts": 1759071729,
+    "question": "Who are the authors of the paper?",
+    "answer": "[Generation failed]",
+    "sources": [
+      "ai_research.pdf p12",
+      "ai_research.pdf p12",
+      "ai_research.pdf p11",
+      "ai_research.pdf p12"
+    ],
+    "web": "[Web search unavailable]"
+  }
+]
